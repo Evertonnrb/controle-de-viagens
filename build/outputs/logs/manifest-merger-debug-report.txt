@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/30c081335a4eeb2bf6243e0b883b5f76/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a539f7ca58e2010d93cc8525f887df3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/daf39f65ec35d6e81c8d4b0b43758ebe/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9e3bd5f81da12231058cdbc4f60fc18d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f7c459e7dabc32f6e8b9402e43cc95fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3f6851f59962e50611c553108980558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/11397b5c7ac1c97bbbd312f4e83ce273/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c21c6f3ff8656b368d53ba8368de9542/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bcd38704d0da0ce33355518cc51c2ee0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/71cd5dc516d74f31d189fa65b008e91f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/08667f204383f97219090d9bd0c23fc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c48c695685341f91a678f64f97fe5c73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bccce9cdf691073b0877d8893aaddb20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e1e4deef505b5c238d0f95d3934e4378/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cfb9111d92edf837f197a4d00083d9ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2b039b1e56a0cee6692d73e1c5e979fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d941586e4d11d3afe243f90d8e2583eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2f16f76f3dc93a0c3ad8f7d7e60be489/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9b52a801a8602b69e6c37a5b9f16253c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70f0aeaf353256330da93b63b8f0fa11/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6926c756ef8bb4fe008dd0ddd6023a5b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/93c790e1d0594777d918a42936366c67/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cd97c148f9ee4b1eac1a0bf692939f4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4fea661d5ad3547721a8d4d7e846259c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b1e15884ba13c5b588c60c8fa3d28870/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9f2c0d3842e42e69756808a7b4e7ff36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ade0e7f0ec6ee658df8bd16541e3a3b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fd0136c3ff3c30cdff5d00786d4b8464/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5f7a8b866fbf41ae425ca9edba932efe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/58eb3f1ac2b20099fcfa6b379afab19b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8aabb2a8ae8edb110ef6960cdd2f5b4b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/30c081335a4eeb2bf6243e0b883b5f76/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/30c081335a4eeb2bf6243e0b883b5f76/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/daf39f65ec35d6e81c8d4b0b43758ebe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/daf39f65ec35d6e81c8d4b0b43758ebe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70f0aeaf353256330da93b63b8f0fa11/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70f0aeaf353256330da93b63b8f0fa11/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6926c756ef8bb4fe008dd0ddd6023a5b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6926c756ef8bb4fe008dd0ddd6023a5b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70f0aeaf353256330da93b63b8f0fa11/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.nrb.nicetrip.MainActivity
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:12:9-50
+	android:name
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:12:19-47
+activity#com.nrb.nicetrip.subactivitys.SplashActivity
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:13:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.nrb.nicetrip.subactivitys.LoginActivity
+ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:20:9-73
+	android:name
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml:20:19-61
+uses-sdk
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/30c081335a4eeb2bf6243e0b883b5f76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/30c081335a4eeb2bf6243e0b883b5f76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a539f7ca58e2010d93cc8525f887df3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a539f7ca58e2010d93cc8525f887df3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/daf39f65ec35d6e81c8d4b0b43758ebe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/everton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/daf39f65ec35d6e81c8d4b0b43758ebe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9e3bd5f81da12231058cdbc4f60fc18d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9e3bd5f81da12231058cdbc4f60fc18d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f7c459e7dabc32f6e8b9402e43cc95fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/f7c459e7dabc32f6e8b9402e43cc95fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3f6851f59962e50611c553108980558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3f6851f59962e50611c553108980558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/11397b5c7ac1c97bbbd312f4e83ce273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/11397b5c7ac1c97bbbd312f4e83ce273/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c21c6f3ff8656b368d53ba8368de9542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c21c6f3ff8656b368d53ba8368de9542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bcd38704d0da0ce33355518cc51c2ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bcd38704d0da0ce33355518cc51c2ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/71cd5dc516d74f31d189fa65b008e91f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/71cd5dc516d74f31d189fa65b008e91f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/08667f204383f97219090d9bd0c23fc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/08667f204383f97219090d9bd0c23fc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c48c695685341f91a678f64f97fe5c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c48c695685341f91a678f64f97fe5c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bccce9cdf691073b0877d8893aaddb20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bccce9cdf691073b0877d8893aaddb20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e1e4deef505b5c238d0f95d3934e4378/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e1e4deef505b5c238d0f95d3934e4378/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cfb9111d92edf837f197a4d00083d9ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cfb9111d92edf837f197a4d00083d9ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2b039b1e56a0cee6692d73e1c5e979fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2b039b1e56a0cee6692d73e1c5e979fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d941586e4d11d3afe243f90d8e2583eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d941586e4d11d3afe243f90d8e2583eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2f16f76f3dc93a0c3ad8f7d7e60be489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2f16f76f3dc93a0c3ad8f7d7e60be489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9b52a801a8602b69e6c37a5b9f16253c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9b52a801a8602b69e6c37a5b9f16253c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70f0aeaf353256330da93b63b8f0fa11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70f0aeaf353256330da93b63b8f0fa11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6926c756ef8bb4fe008dd0ddd6023a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6926c756ef8bb4fe008dd0ddd6023a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/93c790e1d0594777d918a42936366c67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/93c790e1d0594777d918a42936366c67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cd97c148f9ee4b1eac1a0bf692939f4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cd97c148f9ee4b1eac1a0bf692939f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4fea661d5ad3547721a8d4d7e846259c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4fea661d5ad3547721a8d4d7e846259c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b1e15884ba13c5b588c60c8fa3d28870/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b1e15884ba13c5b588c60c8fa3d28870/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9f2c0d3842e42e69756808a7b4e7ff36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9f2c0d3842e42e69756808a7b4e7ff36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ade0e7f0ec6ee658df8bd16541e3a3b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ade0e7f0ec6ee658df8bd16541e3a3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fd0136c3ff3c30cdff5d00786d4b8464/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/everton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fd0136c3ff3c30cdff5d00786d4b8464/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5f7a8b866fbf41ae425ca9edba932efe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5f7a8b866fbf41ae425ca9edba932efe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/58eb3f1ac2b20099fcfa6b379afab19b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/58eb3f1ac2b20099fcfa6b379afab19b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8aabb2a8ae8edb110ef6960cdd2f5b4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/everton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8aabb2a8ae8edb110ef6960cdd2f5b4b/AndroidManifest.xml:20:5-44
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+		ADDED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml
+		INJECTED from /home/everton/Development/android-studio/NiceTrip/app/src/main/AndroidManifest.xml

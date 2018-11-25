@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#484848</color>
+    <color name="colorAccent">#000000</color>
+    <color name="primaryColor">#00796b</color>
+    <color name="primaryLightColor">#48a999</color>
+    <color name="primaryDarkColor">#004c40</color>
+    <color name="colorBranca">#fff</color>
+    <color name="texto_splash">#212121</color>
+    <color name="splash_start">#006064</color>
+    <color name="splash_end">#424242</color>
+    <color name="splash_center_color">#37474F</color>
+    <color name="colorBlueButton">#1E88E5</color>
+</resources>

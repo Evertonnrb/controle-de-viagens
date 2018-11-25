@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="texto_pequeno">8sp</dimen>
+    <dimen name="texto_medio">12sp</dimen>
+    <dimen name="texto_grande">24sp</dimen>
+    <dimen name="texto_muito_grande">32sp</dimen>
+    <dimen name="texto_extra_grande">64sp</dimen>
+    <dimen name="texto_splash">128sp</dimen>
+    <dimen name="padding_telas">8dp</dimen>
+</resources>

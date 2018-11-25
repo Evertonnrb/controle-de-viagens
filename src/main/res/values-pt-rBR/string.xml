@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NiceTrip</string>
+    <string name="msg_erro"> %s inválido</string>
+    <string name="email_usuario">Email</string>
+    <string name="senha_usuario">Senha</string>
+    <string name="botao_logar">Logar</string>
+    <string name="mater_conectado">Manter conectado</string>
+    <string name="cadastrar">Cadastre se</string>
+</resources>

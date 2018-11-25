@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NiceTrip</string>
+    <string name="msg_erro"> %s invalid</string>
+    <string name="email_usuario">Email</string>
+    <string name="senha_usuario">Password</string>
+    <string name="botao_logar">Sigin</string>
+    <string name="mater_conectado">Keepeing me</string>
+    <string name="cadastrar">Register</string>
+</resources>
